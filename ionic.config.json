@@ -1,5 +1,7 @@
 {
   "name": "tutotialMapa",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
